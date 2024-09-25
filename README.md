@@ -6,9 +6,13 @@ Este sistema de gestión de filas está diseñado para optimizar y organizar el 
 
 # Caracteristicas: 
 - Login del panel administrativo
-![SistemaFilas2](https://github.com/Urielmajb/GestionFilas/assets/22357888/0d0be573-6d7c-4b39-90e2-0e7ef2a62683)
+![Captura de pantalla 2024-09-25 140606](https://github.com/user-attachments/assets/75ac5bdb-ab43-4f12-9562-7334a5521ab6)
+
 - Asignación de Turnos Automática: Los clientes pueden generar su número de turno de manera rápida y sencilla a través de quioscos o dispositivos móviles.
-![Captura de pantalla 2024-09-25 140606](https://github.com/user-attachments/assets/d0562a86-73a8-4c81-bb8d-e4f465bd1667)
+![Captura de pantalla 2024-09-25 140606](https://github.com/user-attachments/assets/0c5e6484-ab0c-4057-867d-056597288bbc)
+![Captura de pantalla 2024-09-25 143022](https://github.com/user-attachments/assets/39a2eb1d-9881-4411-9f72-919be25f3b4e)
+
 - Monitoreo en Tiempo Real: El sistema muestra el estado actual de la fila, indicando el turno que se está atendiendo y los próximos en la lista, tanto en pantallas dentro de la sucursal.
 - Notificaciones de Llamado: Los clientes reciben alertas cuando su turno está próximo, reduciendo el tiempo de espera físico en el establecimiento.
-![Captura de pantalla 2024-09-25 140715](https://github.com/user-attachments/assets/a03a9e2c-ba0f-490d-b1ba-65496db16679)
+![Captura de pantalla 2024-09-25 140715](https://github.com/user-attachments/assets/979639e9-c679-4eae-bb32-e00ea93a7e83)
+![Captura de pantalla 2024-09-25 143101](https://github.com/user-attachments/assets/135aa845-fa8c-40d8-8812-f5db492d648b)
