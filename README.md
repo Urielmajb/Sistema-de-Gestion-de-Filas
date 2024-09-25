@@ -6,7 +6,7 @@ Este sistema de gestión de filas está diseñado para optimizar y organizar el 
 
 # Caracteristicas: 
 - Login del panel administrativo
-![Captura de pantalla 2024-09-25 140606](https://github.com/user-attachments/assets/75ac5bdb-ab43-4f12-9562-7334a5521ab6)
+![Captura de pantalla 2024-09-25 142910](https://github.com/user-attachments/assets/ddf733d5-400e-4f0e-bdb6-e55b2fa00bf7)
 
 - Asignación de Turnos Automática: Los clientes pueden generar su número de turno de manera rápida y sencilla a través de quioscos o dispositivos móviles.
 ![Captura de pantalla 2024-09-25 140606](https://github.com/user-attachments/assets/0c5e6484-ab0c-4057-867d-056597288bbc)
