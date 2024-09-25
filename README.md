@@ -16,3 +16,7 @@ Este sistema de gestión de filas está diseñado para optimizar y organizar el 
 - Notificaciones de Llamado: Los clientes reciben alertas cuando su turno está próximo, reduciendo el tiempo de espera físico en el establecimiento.
 ![Captura de pantalla 2024-09-25 140715](https://github.com/user-attachments/assets/979639e9-c679-4eae-bb32-e00ea93a7e83)
 ![Captura de pantalla 2024-09-25 143101](https://github.com/user-attachments/assets/135aa845-fa8c-40d8-8812-f5db492d648b)
+
+
+- Link de Video de Demostracion del Funcionamiento de Sistema (Esta local)
+https://drive.google.com/file/d/1wYfHtMTeWBChOvay-zajjqmd8bx00m1f/view?usp=sharing
